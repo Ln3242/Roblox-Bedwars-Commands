@@ -1,0 +1,399 @@
+BedWars Commands Guide
+All commands in Roblox BedWars are done in the chat window of the game. This can be opened by clicking on the chat icon at the top left of the screen or pressing the “/” key on your keyboard. You must include the “/” with your command when you enter it or it will not work.
+
+If a command has parenthesis then it is expecting you to input the parameter listed. For example, if it says “(player)” you would add the player’s display name or username in place: /tp example_player. X represents a number, you need to replace it with the amount you would like.
+
+Credit to this command list posted by DV Plays for some help with the commands. Use CTRL + F on your keyboard with the name of the command you are looking for to find them more easily!
+
+Custom Match Commands List
+/setteamspawn (teamName) – Use to change team spawn locations
+/gen help – Support for creating & managing generators
+/shop help – Support for creating & managing shops
+/gm 1 (playerName | @all | @team:teamName) – Apply creative mode to yourself or other players0 or “pvp” and 1 or “creative”
+EasyEdit Commands – //help, //pos1, //pos2, //set , //cut, //undo, //redo, //replace
+/edit flat (block) (size) – Use this command to generate a flat square of blocks at your location
+/setac enabled – Use this command to enable anti-cheat
+/setac disabled – Use this command to disable anti-cheat
+/void – Use this command to teleport you to the Void
+/bedwars – Use this command to return you to the BedWars lobby
+/Islands – Use this command to take you to Roblox Islands
+/setTeam (player | @all | @team:(team_name)) (team_name) – Use this command to set the team of a player or players.
+/setHealth (player | @all | @team:(color) | @s) (health) – Use this command to set the health of a player, players, or a whole team.
+/disaster (“meteors” | “void_rise” | “toxic_rain” | “tornado”) – Use this command to manually trigger one of the natural disasters.
+/give (player) (@all) (@team: team_color) (item) (item amount) – Use this command to give another player, all players, or a specific team an item.
+/sethealthregen (player) (regen_amount) – Use this command to set the health regeneration for a specific player.
+/cohost all – Use this command to grant cohost permissions to all players.
+/enchant (enchantmentname_level – e.g., /enchant static_3) – Use this command to grant the enchantment you specify to the player. Place an underscore (_) after the name and then the level number you’d like to give.
+/tp (player) – Teleports the player to the username or display name entered.
+/tp (target_players) (destination_player) – You can teleport other players to a certain player.
+/tpall – Teleports all players to the user
+/tpbed (Ex. /tpbed red) – Teleports you to the specific bed team color you name in the command.
+/spawn (item name) (amount) – Spawns an item with an amount based on your input. We have a list of the items you can spawn below.
+/i (item name) (amount) – You can now use this command rather than spawn to type things out faster.
+/announce (message) – Announces the message in a popup window that shows up on the screen of all the players that are in the Custom Match.
+/kick (player) – This command is used to kick a player out of your Custom Match. You can’t use their Display Name, you can only use their Roblox Username. This can be found by clicking on their name in the player list.
+/setgeneratormultiplier (amount) – Will increase or decrease the speed of the Iron, Diamond, and Emerald generator. The number 1 is the default speed, 2 is double the speed, and you can use -inf to max out the speed.
+/blacklistItem (item name) – Prevents the named item from being purchased in the Item Shop. Once this is done you can’t enable it again until you start a new Custom Game, so only do it if you are sure.
+/disablekit (kit name) – Disables the named kit from being used in the current Custom Match. Once you’ve disabled a kit in the match you won’t be able to allow it back until you’ve created a new Custom Match.
+/setdeathmatchtime (seconds) – Sets the amount of time you want for your Custom Match before the Sudden Death mode sets in.
+/togglespawn (item name) (true/false) – Allows or disallows the spawning of a certain item in the game. True will spawn the item and false will disable the item.
+/luckyairdrop – Using this command will spawn a Lucky Block Airdrop at a random area on the current map.
+Chat Commands List
+/hub – Returns you to the Roblox BedWars Hub, where you can join different games, purchase kits, and start a new custom game. If you are already in the hub, you will be teleported to a new server.
+Relics
+/relic blood_deal
+/relic blackhole
+/relic call_of_the_void
+/relic glitched_enchanting
+/relic stomper
+/relic electrified
+/relic embers_anguish
+/relic glass_cannon
+/relic melodys_lullaby
+/relic reinforced_bed
+/relic piercing_blade
+/relic unity
+/relic natures_touch
+/relic greedy
+/relic looter
+/relic sword_Master
+/relic second_strike
+/relic double_hit
+/relic second_wind
+/relic head_start
+/relic sniper
+/relic prospectors_discipline
+/relic quick_forge
+/relic essence_of_nature
+/relic knights_code
+/relic cash_back
+/relic base_protector
+/relic glass_cannon
+/relic blood_deal
+Enchantments
+/enchant life_steal_2
+/enchant critical_strike_1
+/enchant critical_strike_3
+/enchant execute_3
+/enchant clingy_2
+/enchant fire_1
+/enchant fire_2
+/enchant fire_3
+/enchant void_3
+/enchant plunder_2
+/enchant shield_gen_1
+/enchant shield_gen_2
+/enchant shield_gen_3
+/enchant anti_knockback_2
+/enchant updraft_2
+/enchant rapid_regen_1
+/enchant rapid_regen_2
+/enchant rapid_regen_3
+/enchant static_1
+/enchant static_2
+/enchant static_3
+Spawn Armor Items
+/spawn void_boots
+/spawn void_chestplate
+/spawn void_helmet
+/spawn juggernaut_helmet
+/spawn juggernaut_chestplate
+/spawn juggernaut_boots
+/spawn diamond_boots
+/spawn diamond_chestplate
+/spawn diamond_helmet
+/spawn emerald_boots
+/spawn emerald_chestplate
+/spawn emerald_helmet
+/spawn iron_boots
+/spawn iron_chestplate
+/spawn iron_helmet
+/spawn void_boots
+/spawn void_chestplate
+/spawn void_helmet
+/spawn jump_boots
+/spawn leather_boots
+/spawn leather_chestplate
+/spawn leather_helmet
+/spawn speed_boots
+/spawn warrior_boots
+/spawn warrior_chestplate
+/spawn warrior_helmet
+Spawn Ammo Items
+/spawn carrot_rocket
+/spawn boba_pearl
+/spawn arrow X
+/spawn firework_arrow
+/spawn rocket_launcher_missile X
+Spawn Block Items
+/spawn slime_block
+/spawn bedrock
+/spawn andesite
+/spawn andesite_polished
+/spawn diorite
+/spawn diorite_polished
+/spawn granite
+/spawn granite_polished
+/spawn apple X
+/spawn bed X
+/spawn birch_log X
+/spawn wood_plank_birch
+/spawn clay_black
+/spawn ceramic X
+/spawn clay_blue
+/spawn brick X
+/spawn clay
+/spawn cobblestone X
+/spawn concrete_green
+/spawn fisherman_coral X
+/spawn clay_dark_brown
+/spawn clay_dark_green
+/spawn diamond_block X
+/spawn dirt X
+/spawn emerald_block X
+/spawn glass X
+/spawn grass X
+/spawn clay_gray
+/spawn hickory_log
+/spawn ice X
+/spawn clay_light_brown
+/spawn clay_light_green
+/spawn wood_plank_maple
+/spawn marble X
+/spawn marble_pillar X
+/spawn oak_log
+/spawn wood_plank_oak
+/spawn obsidian X
+/spawn clay_orange
+/spawn clay_pink
+/spawn clay_purple
+/spawn clay_red
+/spawn red_sandstone
+/spawn sand X
+/spawn slate_brick
+/spawn smoke_block X
+/spawn snow X
+/spawn spruce_log
+/spawn wood_plank_spruce
+/spawn stone X
+/spawn stone_brick X
+/spawn stone_slab
+/spawn clay_tan
+/spawn clay_white
+/spawn wool_blue
+/spawn wool_cyan
+/spawn wool_green
+/spawn wool_orange
+/spawn wool_pink
+/spawn wool_purple
+/spawn wool_red
+/spawn wool_white
+/spawn wool_yellow
+/spawn clay_yellow
+Spawn Consumable Items
+/spawn apple X
+/spawn pie X
+Spawn Currency
+/spawn diamond X
+/spawn emerald X
+/spawn iron X
+Spawn Lucky Blocks
+/spawn lucky_block
+/spawn lucky_block_trap
+/spawn purple_lucky_block X
+/spawn huge_lucky_block
+/spawn huge_purple_lucky_block
+Spawn Miscellaneous Items
+/spawn healing_backpack
+/spawn rocket_belt
+/spawn turtle_backpack
+/spawn barrier inf
+/spawn ember
+/spawn crit_star
+/spawn vitality_star
+/spawn dino_deploy
+/spawn melon
+/spawn shock_wave_turret
+/spawn spike_trap
+/spawn small_bush
+/spawn flower_purple
+/spawn stone_player_block
+/spawn toy_hammer
+/spawn dizzy_toad
+/spawn tennis_racket
+/spawn tennis_ball
+/spawn bomb_controller
+/spawn itemshop
+/spawn pinata
+/spawn candy
+/spawn void_turret
+/spawn void_turret_tablet
+/spawn void_crystal
+/spawn void_portal
+/spawn damage_banner
+/spawn defense_banner
+/spawn heal_banner
+/spawn minicopter
+/spawn drone
+/spawn grappling_hook
+/spawn teleport_block
+/spawn brewing_cauldron
+/spawn stone_player_block
+/spawn turtle_shell
+/spawn vending_machine
+/spawn crook
+/spawn flower
+/spawn thorns
+/spawn mushrooms
+/airdrop juggernaut
+/spawn miner_pickaxe
+/spawn clone
+/spawn break_speed_axolotl
+/spawn damage_axolotl X
+/spawn shield_axolotl X
+/spawn health_regen_axolotl_X
+/spawn balloon X
+/spawn bee X
+/spawn beehive X
+/spawn broken_enchant_table
+/spawn hammer
+/spawn cannon
+/spawn carrot_seeds X
+/spawn cauldron
+/spawn charge_shield
+/spawn chest
+/spawn duck_spawn_egg
+/spawn watering_can
+/spawn ember X
+/spawn enchant_table
+/spawn fishing_rod
+/spawn guided_missile X
+/spawn guitar
+/spawn gumdrop_bounce_pad X
+/spawn hang_glider
+/spawn shield
+/spawn jade_hammer
+/spawn juggernaut_crate X
+/spawn melon X
+/spawn melon_seeds X
+/spawn telepearl X
+/spawn personal_chest
+/spawn raven X
+/spawn stopwatch X
+/spawn tablet
+/spawn camera_turret
+/spawn zipline X
+/spawn big_shield
+Spawn Potion Items
+/spawn big_head_potion
+/spawn time_bomb_potion
+/spawn poison_splash_potion
+/spawn heal_splash_potion
+/spawn sleep_splash_potion
+/spawn forcefield_potion
+/spawn giant_potion
+/spawn invisibility_potion
+/spawn jump_potion
+/spawn mini_shield
+/spawn smoke_bomb
+/spawn speed_potion
+/spawn shrink_potion
+Spawn Throwable Items
+/spawn c4_bomb
+/spawn large_rock
+/spawn black_hole_bomb
+/spawn throwable_bridge
+/spawn fireball X
+/spawn frosted_snowball
+/spawn heat_seeking_rock X
+/spawn impulse_grenade
+/spawn lasso X
+/spawn oil_consumable X
+/spawn santa_bomb
+/spawn smoke_grenade
+/spawn snowball X
+/spawn spear X
+/spawn spirit X
+/spawn robbery_ball
+/spawn swap_ball
+/spawn throwing_knife X
+Spawn Tool Items
+/spawn grapple_hook
+/spawn metal_detector
+/spawn portal_gun
+/spawn bee_net
+/spawn diamond_axe
+/spawn diamond_pickaxe
+/spawn iron_axe
+/spawn iron_pickaxe
+/spawn shears
+/spawn stone_pickaxe
+/spawn stone_pickaxe
+/spawn wood_axe
+/spawn wood_pickaxe
+Spawn Trap Items
+/spawn banana_peel X
+/spawn popup_cube
+/spawn tesla_trap X
+/spawn snap_trap X
+Spawn Weapon Items
+/spawn stun_grenade
+/spawn sticky_firework
+/spawn toy_hammer
+/spawn grenade_launcher
+/spawn void_sword
+/spawn player_vacuum
+/spawn infernal_saber
+/spawn light_sword
+/spawn big_wooden_sword
+/spawn boba_blaster
+/spawn frying_pan
+/spawn invisible_landmine
+/spawn bear_claws
+/spawn paint_shotgun
+/spawn carrot_cannon
+/spawn mass_hammer
+/spawn double_edge_sword
+/spawn baguette
+/spawn baseball_bat
+/spawn battle_axe
+/spawn wood_bow
+/spawn wood_crossbow
+/spawn diamond_dao
+/spawn diamond_sword
+/spawn emerald_dao
+/spawn emerald_sword
+/spawn flamethrower
+/spawn vacuum
+/spawn big_wood_sword
+/spawn golden_bow
+/spawn ice_sword
+/spawn iron_dao
+/spawn iron_sword
+/spawn knockback_fish
+/spawn rageblade
+/spawn rocket_launcher
+/spawn scythe
+/spawn stone_dao
+/spawn stone_sword
+/spawn tactical_crossbow
+/spawn taser
+/spawn tnt X
+/spawn twirlblade
+/spawn feather_bow
+/spawn void_axe
+/spawn wizard_staff
+/spawn wood_dao
+/spawn wood_sword
+World Spawns
+Using the “inf” modifier will crash your game with these commands, so don’t use it.
+
+/spawn beeless_entity X
+/spawn monster X
+/spawn bee_entity X
+/spawn dodo_entity X
+/spawn duck_entity X
+/spawn ghost X
+/spawn beeless_entity X
+/spawn monster X
+/spawn spirit_entity X
